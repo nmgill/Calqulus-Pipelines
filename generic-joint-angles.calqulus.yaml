@@ -62,7 +62,7 @@
     - lowpass: $prev
       extrapolate: 100
       order: 6
-      cutoff: 50
+      cutoff: 10
 
 # --- Hips ---
 
